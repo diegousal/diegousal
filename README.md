@@ -30,7 +30,7 @@ An end-to-end computer vision biomechanical analysis platform for evaluating squ
 A real-time energy monitoring dashboard integrating IoT analytics agents. 
 * **Highlights:** Features AI-powered consumption prediction and a conversational analytical chatbot.
 
-### 🪙 [USALcoin](LINK_AL_REPO)  PBFT]
+### 🪙 [USALcoin](LINK_AL_REPO)
 * **USALcoin:** A built-from-scratch Proof-of-Work blockchain in Java featuring crypto wallets, Merkle trees, and P2P fork resolution.
 
 ### 🔐 [Consenso PBFT](LINK_AL_REPO)
